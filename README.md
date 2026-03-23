@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8e8e8,50:f2f2f2,100:e8e8e8&height=200&section=header&text=Jose%20David%20Junco%20Navarro&fontSize=38&fontColor=2d2d2d&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Bogotá%2C%20Colombia&descAlignY=58&descSize=16&animation=fadeIn" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6b6b6b&center=true&vCenter=true&width=700&lines=I+don't+just+code.+I+solve+user+problems.;2+years+building+real+products+for+real+people.;Full-Stack+%7C+AI+%7C+Agentic+Engineering;Bilingual+%F0%9F%87%A8%F0%9F%87%B4+%F0%9F%87%BA%F0%9F%87%B8+%E2%80%94+ES+%2F+EN)](https://git.io/typing-svg)
 
 <br/>
@@ -36,7 +33,6 @@ Also, I'm a **volleyball player** and a big fan of the sport. Hit me up if you w
 **Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
