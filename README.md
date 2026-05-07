@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a **bilingual Full-Stack & AI Engineer** based in **Bogotá, Colombia**, with 2 years of building production-ready applications for real businesses, from legacy refactors to AI-powered platforms and cloud infrastructure monitors.
+I'm a **bilingual Full-Stack & AI Engineer** based in **Bogotá, Colombia**, with 3+ years of building production-ready applications for real businesses, from legacy refactors to AI-powered platforms and cloud infrastructure monitors.
 
 Also, I'm a **volleyball player** and a big fan of the sport. Hit me up if you want to play some **volleyball** or just talk about it 🏐🏐🏐!!!.
 
